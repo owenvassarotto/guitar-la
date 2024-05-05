@@ -2,6 +2,8 @@
 
 Guitar LA is a React application built with Vite, enabling users to manage a shopping cart for guitar purchases. Users can add, remove, and adjust quantities of guitars and see an updated total cost.
 
+![image](https://github.com/owenvassarotto/guitar-la/assets/110845731/b38c742b-eb4a-4b8e-a363-48bab9e7fea4)
+
 ## Features
 
 - **Add to Cart**: Add guitars with a click.
